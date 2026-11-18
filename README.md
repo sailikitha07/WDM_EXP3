@@ -139,8 +139,10 @@ visualize(party, "Party Wear")
 
 ```
 ### Output:
-<img width="585" height="347" alt="image" src="https://github.com/user-attachments/assets/6410d72b-6236-46d2-b316-c1fd0409d594" />
-<img width="573" height="345" alt="image" src="https://github.com/user-attachments/assets/413b4b4f-d5fc-4ed3-be2c-12812ff4b71d" />
+<img width="591" height="346" alt="image" src="https://github.com/user-attachments/assets/8bf6cda3-b0ee-4d34-84bc-cbd89ded5b53" />
+
+<img width="585" height="348" alt="image" src="https://github.com/user-attachments/assets/da566799-e00e-4658-bca2-1e5b008d0727" />
+
 
 
 ### Result:
