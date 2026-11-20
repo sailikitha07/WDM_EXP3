@@ -115,7 +115,7 @@ for pattern, support in party.items():
 
 ```
 ### Output:
-<img width="527" height="317" alt="image" src="https://github.com/user-attachments/assets/574391a4-6589-4342-aae3-88bf62fd9c2e" />
+<img width="532" height="353" alt="image" src="https://github.com/user-attachments/assets/fd9f07fe-35e1-48c5-a74e-8b5a7e8f98f3" />
 
 ### Visualization:
 ```
